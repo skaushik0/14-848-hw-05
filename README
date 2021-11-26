@@ -3,7 +3,9 @@ hw-05
 This repository contains the source for 14-848: HW-05 ("Inverted Index")
 homework.
 
+
 SUMMARY
+
     The driver script "search.py" builds an inverted index of a given
     set of documents (accepts "tar.gz" files) with Apache Spark using
     the "pyspark" interface library. The inverted index is created by
@@ -30,6 +32,7 @@ SUMMARY
 
            PATH        The path of documents to search from.
 
+
 HOW-TO
 
     The driver script runs inside the "mcr.microsoft.com/mmlspark/release"
@@ -51,8 +54,8 @@ HOW-TO
     the uploaded documents, as well as return the document-wise break-up
     of the terms, similar to term search.
 
+
 STRUCTURE
----------
 
     - search.py
         The driver script that constructs inverted indices and runs
