@@ -1,0 +1,5 @@
+# test: Check that stop words are filtered out from the index.
+------
+SEARCH
+------
+term: "the", total: 0

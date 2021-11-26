@@ -1,0 +1,145 @@
+# test: Search for the terms: king, war, peace and caesar.
+------
+SEARCH
+------
+term: "king", total: 2876
+ - path: file:/tolstoy/Tolstoy/war_and_peace.txt, hits: 42
+ - path: file:/hugo/Hugo/NotreDame_De_Paris.txt, hits: 133
+ - path: file:/shakespeare/histories/2kinghenryvi, hits: 176
+ - path: file:/shakespeare/comedies/periclesprinceoftyre, hits: 30
+ - path: file:/shakespeare/tragedies/hamlet, hits: 156
+ - path: file:/shakespeare/comedies/merchantofvenice, hits: 2
+ - path: file:/shakespeare/tragedies/romeoandjuliet, hits: 2
+ - path: file:/shakespeare/tragedies/macbeth, hits: 16
+ - path: file:/shakespeare/comedies/twogentlemenofverona, hits: 1
+ - path: file:/shakespeare/comedies/winterstale, hits: 28
+ - path: file:/shakespeare/comedies/tempest, hits: 22
+ - path: file:/shakespeare/comedies/measureforemeasure, hits: 3
+ - path: file:/tolstoy/Tolstoy/anna_karenhina.txt, hits: 5
+ - path: file:/shakespeare/comedies/cymbeline, hits: 17
+ - path: file:/shakespeare/comedies/midsummersnightsdream, hits: 4
+ - path: file:/shakespeare/poetry/sonnets, hits: 1
+ - path: file:/shakespeare/histories/2kinghenryiv, hits: 104
+ - path: file:/shakespeare/tragedies/titusandronicus, hits: 7
+ - path: file:/shakespeare/tragedies/othello, hits: 1
+ - path: file:/shakespeare/comedies/allswellthatendswell, hits: 106
+ - path: file:/shakespeare/poetry/rapeoflucrece, hits: 1
+ - path: file:/shakespeare/README, hits: 2
+ - path: file:/shakespeare/tragedies/antonyandcleopatra, hits: 5
+ - path: file:/hugo/Hugo/Miserables.txt, hits: 64
+ - path: file:/shakespeare/histories/kingjohn, hits: 213
+ - path: file:/shakespeare/comedies/troilusandcressida, hits: 4
+ - path: file:/shakespeare/comedies/loveslabourslost, hits: 22
+ - path: file:/shakespeare/histories/kinghenryviii, hits: 176
+ - path: file:/shakespeare/tragedies/kinglear, hits: 274
+ - path: file:/shakespeare/histories/1kinghenryiv, hits: 92
+ - path: file:/shakespeare/histories/kinghenryv, hits: 276
+ - path: file:/shakespeare/poetry/venusandadonis, hits: 2
+ - path: file:/shakespeare/comedies/twelfthnight, hits: 2
+ - path: file:/shakespeare/poetry/various, hits: 1
+ - path: file:/shakespeare/histories/3kinghenryvi, hits: 331
+ - path: file:/shakespeare/histories/kingrichardiii, hits: 248
+ - path: file:/shakespeare/histories/1kinghenryvi, hits: 101
+ - path: file:/shakespeare/histories/kingrichardii, hits: 206
+------
+SEARCH
+------
+term: "war", total: 394
+ - path: file:/shakespeare/tragedies/macbeth, hits: 1
+ - path: file:/shakespeare/histories/2kinghenryvi, hits: 4
+ - path: file:/hugo/Hugo/NotreDame_De_Paris.txt, hits: 5
+ - path: file:/shakespeare/histories/3kinghenryvi, hits: 9
+ - path: file:/shakespeare/comedies/measureforemeasure, hits: 1
+ - path: file:/shakespeare/histories/1kinghenryiv, hits: 3
+ - path: file:/shakespeare/comedies/comedyoferrors, hits: 2
+ - path: file:/shakespeare/histories/kinghenryviii, hits: 1
+ - path: file:/shakespeare/tragedies/titusandronicus, hits: 2
+ - path: file:/shakespeare/tragedies/kinglear, hits: 1
+ - path: file:/shakespeare/comedies/loveslabourslost, hits: 2
+ - path: file:/shakespeare/comedies/troilusandcressida, hits: 5
+ - path: file:/shakespeare/poetry/venusandadonis, hits: 2
+ - path: file:/shakespeare/comedies/periclesprinceoftyre, hits: 3
+ - path: file:/shakespeare/tragedies/antonyandcleopatra, hits: 7
+ - path: file:/shakespeare/histories/kinghenryv, hits: 10
+ - path: file:/shakespeare/poetry/rapeoflucrece, hits: 2
+ - path: file:/shakespeare/comedies/cymbeline, hits: 4
+ - path: file:/shakespeare/comedies/twogentlemenofverona, hits: 1
+ - path: file:/shakespeare/tragedies/othello, hits: 2
+ - path: file:/shakespeare/histories/1kinghenryvi, hits: 2
+ - path: file:/hugo/Hugo/Miserables.txt, hits: 77
+ - path: file:/shakespeare/histories/kingrichardiii, hits: 5
+ - path: file:/shakespeare/histories/2kinghenryiv, hits: 3
+ - path: file:/tolstoy/Tolstoy/war_and_peace.txt, hits: 185
+ - path: file:/shakespeare/comedies/midsummersnightsdream, hits: 1
+ - path: file:/shakespeare/poetry/sonnets, hits: 6
+ - path: file:/shakespeare/tragedies/timonofathens, hits: 5
+ - path: file:/shakespeare/histories/kingrichardii, hits: 4
+ - path: file:/shakespeare/comedies/muchadoaboutnothing, hits: 1
+ - path: file:/shakespeare/glossary, hits: 1
+ - path: file:/shakespeare/comedies/allswellthatendswell, hits: 4
+ - path: file:/shakespeare/tragedies/hamlet, hits: 1
+ - path: file:/shakespeare/tragedies/coriolanus, hits: 8
+ - path: file:/shakespeare/comedies/tamingoftheshrew, hits: 3
+ - path: file:/tolstoy/Tolstoy/anna_karenhina.txt, hits: 12
+ - path: file:/shakespeare/histories/kingjohn, hits: 9
+------
+SEARCH
+------
+term: "peace", total: 314
+ - path: file:/shakespeare/histories/kingrichardii, hits: 11
+ - path: file:/shakespeare/comedies/muchadoaboutnothing, hits: 1
+ - path: file:/shakespeare/comedies/cymbeline, hits: 8
+ - path: file:/tolstoy/Tolstoy/anna_karenhina.txt, hits: 39
+ - path: file:/shakespeare/histories/kingjohn, hits: 18
+ - path: file:/shakespeare/histories/kingrichardiii, hits: 13
+ - path: file:/shakespeare/comedies/troilusandcressida, hits: 3
+ - path: file:/shakespeare/histories/kinghenryv, hits: 7
+ - path: file:/shakespeare/tragedies/juliuscaesar, hits: 4
+ - path: file:/shakespeare/comedies/merrywivesofwindsor, hits: 5
+ - path: file:/shakespeare/histories/2kinghenryvi, hits: 5
+ - path: file:/shakespeare/histories/kinghenryviii, hits: 10
+ - path: file:/shakespeare/tragedies/timonofathens, hits: 4
+ - path: file:/shakespeare/histories/1kinghenryiv, hits: 3
+ - path: file:/shakespeare/tragedies/romeoandjuliet, hits: 3
+ - path: file:/shakespeare/histories/1kinghenryvi, hits: 11
+ - path: file:/shakespeare/comedies/tamingoftheshrew, hits: 1
+ - path: file:/shakespeare/tragedies/hamlet, hits: 1
+ - path: file:/shakespeare/comedies/merchantofvenice, hits: 1
+ - path: file:/hugo/Hugo/NotreDame_De_Paris.txt, hits: 3
+ - path: file:/shakespeare/comedies/winterstale, hits: 1
+ - path: file:/shakespeare/comedies/tempest, hits: 1
+ - path: file:/hugo/Hugo/Miserables.txt, hits: 22
+ - path: file:/shakespeare/histories/2kinghenryiv, hits: 21
+ - path: file:/shakespeare/comedies/periclesprinceoftyre, hits: 5
+ - path: file:/shakespeare/tragedies/coriolanus, hits: 14
+ - path: file:/shakespeare/tragedies/kinglear, hits: 2
+ - path: file:/shakespeare/tragedies/antonyandcleopatra, hits: 4
+ - path: file:/shakespeare/poetry/sonnets, hits: 2
+ - path: file:/shakespeare/comedies/twelfthnight, hits: 3
+ - path: file:/shakespeare/comedies/measureforemeasure, hits: 5
+ - path: file:/shakespeare/tragedies/othello, hits: 2
+ - path: file:/shakespeare/comedies/allswellthatendswell, hits: 1
+ - path: file:/shakespeare/tragedies/macbeth, hits: 3
+ - path: file:/shakespeare/poetry/rapeoflucrece, hits: 1
+ - path: file:/shakespeare/comedies/loveslabourslost, hits: 4
+ - path: file:/shakespeare/tragedies/titusandronicus, hits: 5
+ - path: file:/shakespeare/histories/3kinghenryvi, hits: 3
+ - path: file:/tolstoy/Tolstoy/war_and_peace.txt, hits: 64
+------
+SEARCH
+------
+term: "caesar", total: 346
+ - path: file:/shakespeare/tragedies/juliuscaesar, hits: 150
+ - path: file:/shakespeare/comedies/measureforemeasure, hits: 1
+ - path: file:/shakespeare/tragedies/othello, hits: 1
+ - path: file:/shakespeare/comedies/cymbeline, hits: 7
+ - path: file:/shakespeare/README, hits: 1
+ - path: file:/shakespeare/histories/kingrichardiii, hits: 2
+ - path: file:/shakespeare/histories/kinghenryv, hits: 1
+ - path: file:/tolstoy/Tolstoy/war_and_peace.txt, hits: 2
+ - path: file:/shakespeare/histories/1kinghenryvi, hits: 2
+ - path: file:/shakespeare/comedies/allswellthatendswell, hits: 1
+ - path: file:/shakespeare/histories/2kinghenryvi, hits: 1
+ - path: file:/hugo/Hugo/Miserables.txt, hits: 14
+ - path: file:/shakespeare/histories/3kinghenryvi, hits: 2
+ - path: file:/shakespeare/tragedies/antonyandcleopatra, hits: 161
