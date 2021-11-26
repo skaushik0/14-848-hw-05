@@ -147,7 +147,7 @@ def usage():
     print(
         "Search for a word or top 'N' terms in a given set of documents.\n\n"
         "USAGE\n\n"
-        "   search.py   (N | TERM-1[, TERM-2, [..., TERM-N]]) PATH\n\n"+
+        "   search.py   (N | TERM-1[, TERM-2, [..., TERM-N]]) PATH\n\n"
         "ARGUMENTS\n\n"
         "   (N | TERM)  If the argument is a number, then search for the\n"
         "               top 'N' terms; otherwise, search for one (or more)\n"
